@@ -1,4 +1,4 @@
-# Hoseini Finance — Official Repository
+# Hoseini Finance — Seyed Mohamad Seyed Hoseini
 
 **Data-driven finance, algorithmic trading research, and digital asset education.**  
 Turning raw market data into **systematic** and **executable** trading strategies.
