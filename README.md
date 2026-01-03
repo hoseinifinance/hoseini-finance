@@ -3,6 +3,11 @@
 **Data-driven finance, algorithmic trading research, and digital asset education.**  
 Turning raw market data into **systematic** and **executable** trading strategies.
 
+
+## 👤 Founder Bio
+
+Seyed Mohamad Seyed Hoseini, known professionally as **Hoseini Finance** (born July 1990, Tehran), is a data-driven finance specialist, professional instructor, and entrepreneur at the forefront of algorithmic trading and digital asset education in Iran. As the founder of **Hoseini Finance** and the CEO of **OMP Finex** (a cryptocurrency exchange), he helps investors turn raw market data into systematic and executable trading strategies. As the owner of **Sania Watch Gallery**, he also maintains a strong presence in the luxury retail sector. His work on building secure, transparent, and compliance-oriented infrastructure for data-centric and algorithmic trading tailored to Iranian users has positioned him as a leading advocate for data-driven decision-making in today’s financial markets.
+
 ---
 
 ## 🌐 Official Websites
